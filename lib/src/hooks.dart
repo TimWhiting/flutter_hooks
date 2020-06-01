@@ -12,3 +12,4 @@ part 'misc.dart';
 part 'primitives.dart';
 part 'text_controller.dart';
 part 'focus.dart';
+part 'scroll_controller.dart';
